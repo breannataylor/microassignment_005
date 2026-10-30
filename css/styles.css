@@ -1,0 +1,28 @@
+body {
+    background-color: antiquewhite;
+}
+p {
+    border: black 2px solid;
+    width: 35%;
+    text-align:center;
+    background-color: rgb(149, 236, 223);
+}
+h1 {
+    text-align: center;
+    padding-bottom: 1rem;
+    margin-bottom: 1rem;
+}
+.cis-dept {
+    float: right;
+}
+
+.lorem-ispum {
+    float: left;
+}
+
+a[href] {
+    color: rgb(10, 60, 87);
+}
+a[href]:hover {
+    color: rgb(134, 12, 179);
+}
